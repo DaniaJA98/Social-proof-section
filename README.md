@@ -1,6 +1,6 @@
-####Desktop
-<img src="assets/desktop.png">
+#### Desktop
+<img src="images/desktop.png">
 
-####Mobile
-<img src="assets/mobile-1.png">
-<img src="assets/mobile-2.png">
+#### Mobile
+<img src="images/mobile-1.png">
+<img src="images/mobile-2.png">
